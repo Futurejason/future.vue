@@ -1,0 +1,37 @@
+{
+  "id": "2299409",
+  "name": "youkexia",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "566360",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "6567630",
+      "name": "箭头",
+      "font_class": "jiantou1",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "10995719",
+      "name": "删除 关闭 叉",
+      "font_class": "shanchuguanbicha",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "15993995",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    }
+  ]
+}
